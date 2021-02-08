@@ -1,5 +1,5 @@
 # CONSULTAS 
-![banner](https://github.com/T3rMuX0/consulta-v3/blob/master/mob.png)
+![banner](https://github.com/cychrisfds/consulta/blob/main/mob.jpg)
 
 ferramenta onsint criado com apis públicas para obter dados de ips cnpj cep 
 obs: o script não retornar dados pessoais q possa compremeter alguem
