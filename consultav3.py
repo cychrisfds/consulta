@@ -73,18 +73,18 @@ def ban():
     print(f"""
 {az}    	
   /﹋\_
- (҂`_´){f} - {vd}By: ∆ristoteles{f}
+ (҂`_´){f} - {vd}By: CYchris domina{f}
  {az}<;︻╦╤─ ҉ - - - - - - - - - - - - -{f}	                            
-{vm}--=== >>{f} [  {vd} CONSULTA-V3 {f} ]  
+{vm}--=== >>{f} [  {vd} CONSULTAS {f} ]  
   """)
 os.system('clear');
 def menu():
     print(f"""
 {az}    	
   /﹋\_
- (҂`_´){f} - {vd}By: ∆ristoteles{f}
+ (҂`_´){f} - {vd}By: CYchris domina{f}
  {az}<;︻╦╤─ ҉ - - - - - - - - - - - - -{f}	                            
-{vm}--=== >>{f} [  {vd} CONSULTA-V3 {f} ]  
+{vm}--=== >>{f} [  {vd} CONSULTAS {f} ]  
     	 	       
 - {az}[{f}{lz}01{f}{az}]{f} {vd}CONSULTAR IP {f}
 - {az}[{f}{lz}02{f}{az}]{f}{vd} CONSULTAR CEP {f}
