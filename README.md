@@ -1,8 +1,8 @@
-# consulta-v3
+# CONSULTAS 
 ![banner](https://github.com/T3rMuX0/consulta-v3/blob/master/20200906_113356.png)
 
 ferramenta onsint criado com apis públicas para obter dados de ips cnpj cep 
-obs: o script não retornar dados pessoais q possa compremeter auguem
+obs: o script não retornar dados pessoais q possa compremeter alguem
 
 > INSTALAÇÃO NO TERMUX
 
